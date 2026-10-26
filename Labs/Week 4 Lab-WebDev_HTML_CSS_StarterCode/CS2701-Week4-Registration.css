@@ -54,6 +54,7 @@ main {
     /*ToDo: Make this a flexible container; 
     You can find the following helpful: display, flex-wrap, width, min-height, height
     See lecture slides*/
+    display:flex;
 }
 
 section, aside {
